@@ -1,0 +1,13 @@
+.portfolio {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    padding:auto;  
+}
+
+.texto-portfolio{
+    font-size:x-large;
+    font-weight: 300;
+    padding: 45%  ;
+}
